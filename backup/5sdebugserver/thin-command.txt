@@ -1,0 +1,2 @@
+lipo -thin arm64 debugserver -output debugserver
+ldid -Sent.xml debugserver
